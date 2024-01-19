@@ -1,4 +1,4 @@
 # Facebook Clone Using Tailwind CSS <br>
-# Author: Bibek Yadav
-# Email: bibekyadav842@gmail.com
-# Web: bibekyadav.com.np 
+Author: Bibek Yadav <br>
+Email: bibekyadav842@gmail.com <br>
+Web: bibekyadav.com.np 
